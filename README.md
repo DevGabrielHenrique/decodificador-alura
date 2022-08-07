@@ -44,5 +44,5 @@ Além disso, outros requisitos e incrementos foram explorados:
 ## PREVIEW
 ### <div align="center"> Versão destktop </div>
   <div align="center">
-    <img alt="Desktop" src="">
+    <img alt="Desktop" src="https://github.com/DevGabrielHenrique/encriptador-alura/blob/main/result/result-encript.png">
   </div>
